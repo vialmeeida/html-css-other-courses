@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    border: 6px solid black;
+    display: flex;
+    height: 400px;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    color: black;
+    font-size: 1.5em;
+    padding: 1rem;
+    text-align: center;
+}
+
+.item-1{
+    background-color: aqua;
+}
+
+.item-2{
+    background-color: rgb(96, 225, 141);
+}
+
+.item-3{
+    background-color: rgb(227, 177, 77);
+}
+
+.item-4{
+    background-color: rgb(207, 107, 230);
+}
+
+.item-5{
+    background-color: rgb(209, 238, 116);
+}
+
+.item-6{
+    background-color: rgb(130, 97, 213);
+}
+
+.item-7{
+    background-color: rgb(222, 50, 50);
+}
+
+.item-8{
+    background-color: rgb(74, 84, 228);
+}
+
+.item-9{
+    background-color: rgb(38, 210, 84);
+}
